@@ -1,4 +1,3 @@
-[CHANGELOG](CHANGELOG.md)
 
 ## Disclaimer
 
